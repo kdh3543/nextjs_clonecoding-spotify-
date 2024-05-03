@@ -34,7 +34,6 @@ const SongItem = ({ onClick, data }: SongItemProps) => {
       </div>
       <div className="absolute bottom-24 right-5">
         <PlayButton />
-        Play Button
       </div>
     </div>
   );
